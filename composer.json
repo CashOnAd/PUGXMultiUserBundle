@@ -18,9 +18,7 @@
     "minimum-stability": "dev",
     "require": {
         "doctrine/doctrine-bundle": "*",
-        "doctrine/common": "~2.2",
-        "friendsofsymfony/user-bundle": "2.0.x-dev",
-        "symfony/validator": "2.4.*"
+        "friendsofsymfony/user-bundle": "2.0.x-dev"
     },
     "suggest": {
     },
